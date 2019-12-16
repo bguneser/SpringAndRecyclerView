@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpringAndRecyclerView</string>
+    <string name="title_articles">Articles</string>
+    <string name="title_gists">Gists</string>
+    <string name="title_profile">Profile</string>
+    <string name="error_retrieving_articles">Error retrieving articles</string>
+    <string name="title">title</string>
+    <string name="author">author</string>
+    <string name="content">content</string>
+    <string name="new_article">New Article</string>
+    <string name="cancel">Cancel</string>
+    <string name="make_article">Make Article</string>
+    <string name="error_posting_article">Error posting article</string>
+    <string name="error_deleting_article">Error deleting article</string>
+</resources>
